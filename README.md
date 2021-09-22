@@ -23,6 +23,8 @@ Here are some of the programs, which gave some insights of the C++ concepts like
 
 -> IDE used :- CLion by JetBrains, C++11 and above.
 
+** Each folder, named with the above topic, contains an executable file named main.cpp. You can test the code by Build and Run.
+
 
 
 
