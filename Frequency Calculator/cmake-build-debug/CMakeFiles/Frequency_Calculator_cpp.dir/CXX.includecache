@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+N:/JetBrains/CLion 2021.1.2/Frequency_Calculator.cpp/main.cpp
+bits/stdc++.h
+-
+vector
+-
+set
+-
+

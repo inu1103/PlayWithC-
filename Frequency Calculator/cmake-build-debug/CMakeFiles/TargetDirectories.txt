@@ -1,0 +1,3 @@
+N:/JetBrains/CLion 2021.1.2/Frequency_Calculator.cpp/cmake-build-debug/CMakeFiles/Frequency_Calculator_cpp.dir
+N:/JetBrains/CLion 2021.1.2/Frequency_Calculator.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+N:/JetBrains/CLion 2021.1.2/Frequency_Calculator.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

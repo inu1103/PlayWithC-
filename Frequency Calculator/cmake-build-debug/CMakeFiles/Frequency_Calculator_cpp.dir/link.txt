@@ -1,0 +1,3 @@
+"N:\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Frequency_Calculator_cpp.dir/objects.a
+L:\MinGW\bin\ar.exe cr CMakeFiles\Frequency_Calculator_cpp.dir/objects.a @CMakeFiles\Frequency_Calculator_cpp.dir\objects1.rsp
+L:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Frequency_Calculator_cpp.dir/objects.a -Wl,--no-whole-archive -o Frequency_Calculator_cpp.exe -Wl,--out-implib,libFrequency_Calculator_cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Frequency_Calculator_cpp.dir\linklibs.rsp
