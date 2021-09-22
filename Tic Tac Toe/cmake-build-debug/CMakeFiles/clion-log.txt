@@ -1,0 +1,2 @@
+l:\MinGW\bin\mingw-get.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "N:\JetBrains\CLion 2021.1.2\Tic Tac Toe"
+l:\MinGW\bin\mingw-get.exe: unrecognised option `-DCMAKE_BUILD_TYPE=Debug'
